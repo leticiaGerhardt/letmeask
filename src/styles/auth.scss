@@ -49,6 +49,12 @@
     > img {
       align-self: center;
     }
+
+    h2 {
+        font-size: 24px;
+        margin: 64px 0 24px;
+        font-family: 'Poppins', sans-serif;
+    }
   }
 
   .main-content form {
@@ -68,6 +74,16 @@
     input {
       width: 100%;
     }
+  }
+
+  .main-content p {
+      font-size: 14px;
+      color: #737380;
+      margin-top: 16px;
+
+      a {
+          color: #e55f99;
+      }
   }
 
   .create-room{
